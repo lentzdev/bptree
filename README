@@ -1,0 +1,14 @@
+These are B+Tree indexing functions, implemented in pre-ANSI C++.
+The code is from around 1990-1991.
+
+It was written as the back-end database of a messaging system called Pigeon Post.
+That system as a whole never saw the public light of day, however Xenia Mailer
+and Xenia Edit (also published on https://github.com/lentzdev/) were would-be
+components as well. So basically it was a new storage format, something That
+Xenia Edit would be able to handle through its flexible storage interface layer.
+
+While this code is old, since it's very specific, it's usable.
+Happy to take bug reports and pull requests for it, even.
+But realistically, it's here for historical archival purposes.
+
+    -- Enjoy, Arjen.
